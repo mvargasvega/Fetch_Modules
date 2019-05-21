@@ -25,9 +25,10 @@ async function getData() {
 };
 
 /*
-Getting the raw data as text,
+Getting the raw data as text.
+Then splitting it up and putting it into a variable called table.
+Splitting it up in its own row.
+Going through each row of the table, and splitting it up by column.
+and splitting it into its own column
 
-Spliititng it up
-Putting into a variable call table
-Going
 */
